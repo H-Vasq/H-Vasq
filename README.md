@@ -9,5 +9,5 @@ I am excited about the opportunity to join your company as a front-end web devel
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="H-Vasq/images/pic1.png" width="800">
+  <img src="images/pic1.png" width="800">
 </div>
