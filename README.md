@@ -4,4 +4,4 @@ Whether working as part of a team or independently, I can deliver high-quality w
 
 I am excited about the opportunity to join your company as a front-end web developer and bring my skills and creativity to your web projects. Thank you for visiting and considering my qualifications.
 
-<img src=“H-Vasq/images/pic1.png” width=“200”>
+<img src="H-Vasq/images/pic1.png" width="200">
