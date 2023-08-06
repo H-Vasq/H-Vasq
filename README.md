@@ -2,7 +2,7 @@ I am a digital artist turned web developer who loves creating engaging and user-
 
 Whether working as part of a team or independently, I can deliver high-quality web projects that meet your needs and expectations. I have experience in using various web development tools such as HTML, CSS, JavaScript, React, Node.js, MongoDB and more.
 
-I am excited about the opportunity to join your company as a front-end web developer and bring my skills and creativity to your web projects. Thank you for visiting and considering my qualifications. 
+I am excited about the opportunity to collaborate on various web projects and bring my skills and creativity to the table. Thank you for visiting my GitHub profile and taking the time to explore my repositories. I hope you find my work interesting and useful.
 
 <br>
 
