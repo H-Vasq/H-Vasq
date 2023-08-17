@@ -10,6 +10,8 @@ I am excited about the opportunity to collaborate on various web projects and br
 <img src="images/01gif.gif" width="300">
 </div>
 
+<br>
+
 <div align="center">
 <img src="images/pic1.png" width="800">
 </div>
