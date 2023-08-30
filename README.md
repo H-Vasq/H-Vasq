@@ -7,7 +7,7 @@ I am excited about the opportunity to collaborate on various web projects and br
 <br>
 
 <div align="center">
-<img src="images/pic1.png" width="800">
+<img src="images/trees.png" width="800">
 </div>
 
 
